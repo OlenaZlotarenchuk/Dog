@@ -11,3 +11,17 @@ It is fully responsive, making it accessible on both desktop and mobile devices.
 🎨 SCSS<br>
 🚀 JavaScript<br>
 🔄 Gulp
+
+### 🏗️ Installation & Setup
+
+#### Development Mode
+To start the development mode, use the following command:
+```sh
+gulp
+```
+
+#### Production Mode
+To build the project for production, use the following command:
+```sh
+gulp build
+```
